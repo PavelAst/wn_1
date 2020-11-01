@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "forpaul1"
+      "X-Author": "forpaul1",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
